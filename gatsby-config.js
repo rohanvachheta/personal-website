@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Rohan Vachheta`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
+    description: `Rohan vahheta's personal website , made by gatsby starter`,
     author: `Rohan Vachheta`
   },
   plugins: [
