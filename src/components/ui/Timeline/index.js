@@ -3,14 +3,16 @@ import PropTypes from 'prop-types';
 
 import * as Styled from './styles';
 
-const Timeline = ({ title, subtitle, content, startDate, endDate }) => (
+const Timeline = ({ title, subtitle, content, startDate, endDate, link }) => (
   <Styled.Timeline>
     <Styled.Point />
     <Styled.Details>
       <Styled.Date>
         {startDate} - {endDate}
       </Styled.Date>
-      <Styled.Title>{title}</Styled.Title>
+      <Styled.Title href={link} target="blank">
+        {title}
+      </Styled.Title>
       <Styled.Subtitle>{subtitle}</Styled.Subtitle>
     </Styled.Details>
     <Styled.Content>{content}</Styled.Content>

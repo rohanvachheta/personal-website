@@ -28,6 +28,7 @@ const Experience = () => {
               position
               startDate
               endDate
+              link
             }
           }
         }
@@ -46,7 +47,7 @@ const Experience = () => {
         const {
           id,
           html,
-          frontmatter: { company, position, startDate, endDate }
+          frontmatter: { company, position, startDate, endDate, link }
         } = item.node;
 
         return (
@@ -57,6 +58,7 @@ const Experience = () => {
             content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}
+            link={link}
           />
         );
       })}

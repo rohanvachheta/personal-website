@@ -17,8 +17,15 @@ export const Content = styled.div`
   ${tw`w-full sm:w-2/3 mt-4 sm:mt-0`};
 `;
 
-export const Title = styled.div`
-  ${tw`font-semibold mt-3`};
+export const Title = styled.a`
+  ${tw`font-semibold mt-3 `};
+  cursor: pointer;
+  ${tw`m-0 text-indigo-900 bg-white`};
+
+  &:hover {
+    opacity: 0.9;
+    ${tw`m-0 text-indigo-900 bg-white`};
+  }
 `;
 
 export const Subtitle = styled.div`
