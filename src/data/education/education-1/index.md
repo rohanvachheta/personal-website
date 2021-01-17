@@ -1,9 +1,11 @@
 ---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'Abhinav Vidhya vihar'
+degree: 'HSC'
+startDate: 'june 2013'
+endDate: 'May 2015'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+It was school time where I've learnt about maths, phy etc..
+
+major interest was in organising, doing group activity, traveling, voluntering, learning new things

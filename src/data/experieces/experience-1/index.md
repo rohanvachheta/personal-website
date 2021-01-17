@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'Cygnet infotech'
+position: 'Intern'
+startDate: 'jan 2019'
+endDate: 'june 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I was assign to a Project call Process Asset Library(PAL) in which I've go through all the development phase of process for build the project from scratch, also I made prototype version of this project during my internship, it was great experience with cygnet i was working with manager and in other team member for the first time

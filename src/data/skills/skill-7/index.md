@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Photoshop'
+title: 'lightroom'
 percentage: 58
 ---
