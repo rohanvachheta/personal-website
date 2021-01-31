@@ -28,6 +28,7 @@ const Education = () => {
               degree
               startDate
               endDate
+              link
             }
           }
         }
@@ -46,7 +47,7 @@ const Education = () => {
         const {
           id,
           html,
-          frontmatter: { university, degree, startDate, endDate }
+          frontmatter: { university, degree, startDate, endDate, link }
         } = item.node;
 
         return (
@@ -57,6 +58,7 @@ const Education = () => {
             content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}
+            link={link}
           />
         );
       })}
