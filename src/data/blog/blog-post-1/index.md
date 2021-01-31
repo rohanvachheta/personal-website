@@ -8,7 +8,7 @@ tags: ['Photography']
 published: true
 ---
 
-_solo travelling is fun , i've started solo traveling around 4-5 yrs back and when i look back into it .. it seems like differen kind of adventure which everyone should try once in life ._.
+_solo travelling is fun , i've started solo traveling around 4-5 yrs back and when i look back into it .. it seems like different kind of adventure which everyone should try once in life ._.
 
 **First solo trip**
 

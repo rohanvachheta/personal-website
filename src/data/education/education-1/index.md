@@ -8,4 +8,4 @@ endDate: 'May 2015'
 
 It was school time where I've learnt about maths, phy etc..
 
-major interest was in organising, doing group activity, traveling, voluntering, learning new things
+major interest was in organizing, doing group activity, traveling, volunteering, learning new things
