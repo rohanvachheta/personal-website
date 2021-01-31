@@ -11,4 +11,4 @@ I was a student volunteer at NSS, where our role was to arrange small social eve
 
 working with startups during last 2 semester, placed in good company during placement season
 
-participated various activities around collage and at other universities
+participated various activities around college and at other universities
