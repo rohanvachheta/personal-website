@@ -24,6 +24,7 @@ const Newsletter = () => {
 
   const newsletter = markdownRemark.frontmatter;
 
+  return null;
   return (
     <Styled.Newsletter>
       <Container section>

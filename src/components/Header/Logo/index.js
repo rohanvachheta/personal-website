@@ -13,25 +13,19 @@ const Logo = () => {
           title
         }
       }
-      placeholderImage: file(relativePath: { eq: "rohan_image.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 80) {
-            ...GatsbyImageSharpFluid
-            ...GatsbyImageSharpFluidLimitPresentationSize
-          }
-        }
-      }
     }
   `);
 
   const logoTitle = site.siteMetadata.title;
-  const logoImage = placeholderImage.childImageSharp.fluid;
 
   return (
     <Styled.Logo to="/">
       <Styled.Image>
         {/* <Img fluid={logoImage} alt={logoTitle} /> */}
-        <img src={LogoImage} style={{ height: '100%' }} />
+        <img
+          src="https://lh3.googleusercontent.com/a-/AOh14Gh0lgBZjhMeghlHI_ggrReLwdnNY6VEYo8x7pyQ=s96-c-rg-br100"
+          style={{ height: '100%' }}
+        />
       </Styled.Image>
       <Styled.Text>{logoTitle}</Styled.Text>
     </Styled.Logo>
