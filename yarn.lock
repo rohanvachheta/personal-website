@@ -6061,7 +6061,7 @@ find-up@^1.0.0:
   integrity sha1-ay6YIrGizgpgq2TWEOzK1TyyTQ8=
   dependencies:
     path-exists "^2.0.0"
-    indigoie-promise "^2.0.0"
+    pinkie-promise "^2.0.0"
 
 find-up@^2.0.0, find-up@^2.1.0:
   version "2.1.0"
@@ -6935,7 +6935,7 @@ get-stream@^2.2.0:
   integrity sha1-Xzj5PzRgCWZu4BUKBUFn+Rvdld4=
   dependencies:
     object-assign "^4.0.1"
-    indigoie-promise "^2.0.0"
+    pinkie-promise "^2.0.0"
 
 get-stream@^4.0.0, get-stream@^4.1.0:
   version "4.1.0"
@@ -7112,7 +7112,7 @@ globby@^6.1.0:
     glob "^7.0.3"
     object-assign "^4.0.1"
     pify "^2.0.0"
-    indigoie-promise "^2.0.0"
+    pinkie-promise "^2.0.0"
 
 got@8.3.2, got@^8.3.1:
   version "8.3.2"
@@ -8953,7 +8953,7 @@ load-json-file@^1.0.0:
     graceful-fs "^4.1.2"
     parse-json "^2.2.0"
     pify "^2.0.0"
-    indigoie-promise "^2.0.0"
+    pinkie-promise "^2.0.0"
     strip-bom "^2.0.0"
 
 load-json-file@^2.0.0:
@@ -10691,7 +10691,7 @@ path-exists@^2.0.0:
   resolved "https://registry.yarnpkg.com/path-exists/-/path-exists-2.1.0.tgz#0feb6c64f0fc518d9a754dd5efb62c7022761f4b"
   integrity sha1-D+tsZPD8UY2adU3V77YscCJ2H0s=
   dependencies:
-    indigoie-promise "^2.0.0"
+    pinkie-promise "^2.0.0"
 
 path-exists@^3.0.0:
   version "3.0.0"
@@ -10740,7 +10740,7 @@ path-type@^1.0.0:
   dependencies:
     graceful-fs "^4.1.2"
     pify "^2.0.0"
-    indigoie-promise "^2.0.0"
+    pinkie-promise "^2.0.0"
 
 path-type@^2.0.0:
   version "2.0.0"
@@ -10810,16 +10810,16 @@ pify@^4.0.1:
   resolved "https://registry.yarnpkg.com/pify/-/pify-4.0.1.tgz#4b2cd25c50d598735c50292224fd8c6df41e3231"
   integrity sha512-uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==
 
-indigoie-promise@^2.0.0:
+pinkie-promise@^2.0.0:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/indigoie-promise/-/indigoie-promise-2.0.1.tgz#2135d6dfa7a358c069ac9b178776288228450ffa"
+  resolved "https://registry.yarnpkg.com/pinkie-promise/-/pinkie-promise-2.0.1.tgz#2135d6dfa7a358c069ac9b178776288228450ffa"
   integrity sha1-ITXW36ejWMBprJsXh3YogihFD/o=
   dependencies:
-    indigoie "^2.0.0"
+    pinkie "^2.0.0"
 
-indigoie@^2.0.0:
+pinkie@^2.0.0:
   version "2.0.4"
-  resolved "https://registry.yarnpkg.com/indigoie/-/indigoie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
+  resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
 pixelmatch@^4.0.2:
