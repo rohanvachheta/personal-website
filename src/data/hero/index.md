@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
-title: 'Frontend Developer'
-subtitle: 'I am Rohan Vachheta'
-content: 'Employed as a Software Engineer, I have a deep passion for comprehending the fundamental aspects of new technologies. My involvement with numerous startups during my college years has fostered an enduring excitement within me for the dynamic world of startups.'
+title: 'Front-end Developer'
+subtitle: 'Rohan Vachheta'
+content: "- Passionate Front-end Developer with a strong eye for detail\n- Expert in React.js & Next.js for building modern, high-performance web apps\n- Skilled at transforming UI/UX designs into pixel-perfect, accessible interfaces\n- Full stack experience with Node.js & MongoDB\n- Thrive on solving complex problems and optimizing performance\n- Collaborative team player, always eager to learn and embrace new technologies"
 linkTo: '/resume/'
 linkText: 'View My Profile'
 ---

@@ -1,14 +1,10 @@
 ---
 category: 'education'
-university: 'Bachelor of Engineering in Computer Science'
-degree: 'LDRP ITR - KSV University'
-startDate: 'june 2015'
-endDate: 'May 2019'
+university: 'LDRP Institute of Technology & Research, Gujarat Technological University'
+degree: 'Bachelor of Engineering, Computer Engineering'
+startDate: '2015'
+endDate: '2019'
 link: 'https://www.ldrp.ac.in/'
 ---
 
-I was a student volunteer at NSS, where our role was to arrange small social events in our college and also I've spent 8 days in the rural area for teaching in a government school to taking part in cultural activities.
-
-working with startups during last 2 semester, placed in good company during placement season
-
-participated various activities around college and at other universities
+Bachelor of Engineering in Computer Engineering. Participated in various activities, volunteered for NSS, and worked with startups during the final semesters. Placed in a reputed company during campus placements.
